@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Cliente
+comment0.text=\n\ @author\ Gabriel\ S\u00E1nchez\ Arrisi\ \n\ @version\ 2022.03.17\n
+comment1.params=
+comment1.target=Cliente()
+comment1.text=\n\ Constructor\ sin\ par\u00E1metros\n
+comment2.params=rut
+comment2.target=Cliente(java.lang.String)
+comment2.text=\n\ Constructor\ con\ par\u00E1metros\n
+comment3.params=
+comment3.target=java.lang.String\ generarId()
+comment3.text=\n\ M\u00E9todo\ privado\ para\ generar\ el\ ID\ de\ manera\ autom\u00E1tica\n\ @return\ \ \ \ \ valor\ de\ tipo\ String\ con\ un\ GUID\ autogenerado\ \n
+comment4.params=
+comment4.target=java.lang.String\ obtenerId()
+comment4.text=\n\ M\u00E9todo\ publico\ para\ obtener\ el\ Id\ del\ Cliente\n\ @return\ \ \ \ \ valor\ del\ id\ del\ cliente\n
+comment5.params=
+comment5.target=java.lang.String\ obtenerRut()
+comment5.text=\n\ M\u00E9todo\ publico\ para\ obtener\ el\ rut\ del\ Cliente\n\ @return\ \ \ \ \ valor\ del\ rut\ del\ cliente\ \n
+comment6.params=rut
+comment6.target=void\ establecerRut(java.lang.String)
+comment6.text=\n\ M\u00E9todo\ publico\ para\ obtener\ el\ rut\ del\ Cliente\n\ \n\ @param\ \ rut\ \ indica\ el\ valor\ del\ rut\ para\ la\ clase\n
+numComments=7
